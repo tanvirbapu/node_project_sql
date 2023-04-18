@@ -1,0 +1,153 @@
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 15:31:46 GMT+0530 (India Standard Time)
+GET /get-connection 200 35 - 0.989 ms Thu, 15 Sep 2022 10:01:53 GMT
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 15:32:15 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 15:32:19 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 15:33:11 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 15:33:56 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 15:34:20 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 15:34:26 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 15:36:00 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 15:36:17 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 15:36:41 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 18:46:53 GMT+0530 (India Standard Time)
+GET /get-connection 200 35 - 1.003 ms Thu, 15 Sep 2022 13:16:56 GMT Hello
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 18:47:04 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 18:48:05 GMT+0530 (India Standard Time)
+undefined
+GET /get-connection 200 35 - 1.676 ms Thu, 15 Sep 2022 13:18:08 GMT 
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 18:48:13 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 18:48:14 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 18:48:35 GMT+0530 (India Standard Time)
+GET /get-connection 200 35 - 0.982 ms Thu, 15 Sep 2022 13:18:38 GMT 
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 18:49:05 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 18:49:26 GMT+0530 (India Standard Time)
+GET /admin/get-connection 404 159 - 2.081 ms Thu, 15 Sep 2022 13:19:31 GMT 
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 18:49:44 GMT+0530 (India Standard Time)
+GET /admin/get-connection 404 159 - 2.283 ms Thu, 15 Sep 2022 13:19:47 GMT 
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 18:50:24 GMT+0530 (India Standard Time)
+GET /get-connection 200 35 - 2.303 ms Thu, 15 Sep 2022 13:22:34 GMT 
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 18:52:46 GMT+0530 (India Standard Time)
+GET /get-connection 200 35 - 1.573 ms Thu, 15 Sep 2022 13:22:47 GMT 
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 18:52:54 GMT+0530 (India Standard Time)
+GET /get-connection 200 35 - 1.418 ms Thu, 15 Sep 2022 13:22:56 GMT 
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 18:55:43 GMT+0530 (India Standard Time)
+GET /get-connection 200 35 - 1.233 ms Thu, 15 Sep 2022 13:25:45 GMT 
+CONNECTED !!
+Server started on PORT 81 :: Thu Sep 15 2022 18:56:08 GMT+0530 (India Standard Time)
+GET /get-connection 200 35 - 0.984 ms Thu, 15 Sep 2022 13:26:20 GMT 
+CONNECTED !!
+Server started on PORT 81 :: Mon Sep 19 2022 18:23:23 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Mon Sep 19 2022 19:08:00 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Tue Sep 20 2022 13:13:50 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Tue Sep 20 2022 13:14:11 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Tue Sep 20 2022 13:14:25 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT undefined :: Tue Sep 20 2022 13:14:33 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT undefined :: Tue Sep 20 2022 13:14:36 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Tue Sep 20 2022 13:15:01 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Tue Sep 20 2022 13:15:06 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Tue Sep 20 2022 13:15:19 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Tue Sep 20 2022 13:17:14 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Tue Sep 20 2022 13:18:01 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Tue Sep 20 2022 13:18:18 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Tue Sep 20 2022 13:18:28 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT undefined :: Tue Sep 20 2022 13:19:00 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT undefined :: Tue Sep 20 2022 13:20:53 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT undefined :: Tue Sep 20 2022 13:20:59 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT undefined :: Tue Sep 20 2022 13:21:18 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT undefined :: Tue Sep 20 2022 13:21:47 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT undefined :: Tue Sep 20 2022 13:22:14 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Tue Sep 20 2022 13:22:25 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Tue Mar 28 2023 12:37:14 GMT+0530 (India Standard Time)
+POST /sign-up 400 51 - 173.805 ms Tue, 28 Mar 2023 07:13:08 GMT 
+CONNECTED !!
+Server started on PORT 81 :: Tue Mar 28 2023 12:45:42 GMT+0530 (India Standard Time)
+POST /sign-up 400 51 - 126.624 ms Tue, 28 Mar 2023 07:15:58 GMT 
+CONNECTED !!
+Server started on PORT 81 :: Tue Mar 28 2023 13:01:18 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Tue Mar 28 2023 13:01:32 GMT+0530 (India Standard Time)
+POST /sign-up 400 51 - 131.779 ms Tue, 28 Mar 2023 07:31:37 GMT 
+POST /sign-up 400 51 - 130.288 ms Tue, 28 Mar 2023 07:32:24 GMT 
+CONNECTED !!
+Server started on PORT 81 :: Tue Mar 28 2023 13:04:51 GMT+0530 (India Standard Time)
+POST /sign-up 400 51 - 126.325 ms Tue, 28 Mar 2023 07:34:55 GMT 
+CONNECTED !!
+Server started on PORT 81 :: Tue Mar 28 2023 13:05:22 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Tue Mar 28 2023 13:13:52 GMT+0530 (India Standard Time)
+tanvir.valere@gmail.commm
+POST /sign-up 400 51 - 143.247 ms Tue, 28 Mar 2023 07:43:55 GMT 
+tanvir.valere@gmail.commmm
+CONNECTED !!
+Server started on PORT 81 :: Tue Mar 28 2023 13:16:01 GMT+0530 (India Standard Time)
+tanvir.valere@gmail.commmm
+POST /sign-up 400 51 - 131.751 ms Tue, 28 Mar 2023 07:46:03 GMT 
+tanvir.valere@gmail.commmm
+CONNECTED !!
+Server started on PORT 81 :: Tue Mar 28 2023 13:17:14 GMT+0530 (India Standard Time)
+tanvir.valere@gmail.commmm
+POST /sign-up 400 51 - 125.436 ms Tue, 28 Mar 2023 07:47:17 GMT 
+tanvir.valere@gmail.commmm
+CONNECTED !!
+Server started on PORT 81 :: Tue Mar 28 2023 13:19:04 GMT+0530 (India Standard Time)
+tanvir.valere@gmail.commmm
+POST /sign-up 400 51 - 129.673 ms Tue, 28 Mar 2023 07:49:12 GMT 
+tanvir.valere@gmail.commmm
+CONNECTED !!
+Server started on PORT 81 :: Tue Mar 28 2023 13:19:53 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Tue Mar 28 2023 15:39:05 GMT+0530 (India Standard Time)
+POST /sign-up 400 51 - 142.312 ms Tue, 28 Mar 2023 10:09:09 GMT 
+CONNECTED !!
+Server started on PORT 81 :: Tue Mar 28 2023 15:39:49 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Tue Mar 28 2023 15:41:48 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Tue Mar 28 2023 15:42:32 GMT+0530 (India Standard Time)
+CONNECTED !!
+Server started on PORT 81 :: Tue Mar 28 2023 15:43:27 GMT+0530 (India Standard Time)
+POST /sign-up 200 405 - 442.100 ms Tue, 28 Mar 2023 10:13:39 GMT 

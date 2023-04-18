@@ -1,0 +1,10 @@
+version: '3.8'
+
+services: 
+  app:
+    container_name: niketvalere/nodeboilerplate
+    restart: always
+    build: .
+    ports:
+      - '3306:3306'
+    network_mode: 'host'
